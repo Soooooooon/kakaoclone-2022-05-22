@@ -1,3 +1,3 @@
 # Kakao Clone 2022 Learning
 
-Learning CSS is Fun.
+Learning HTML,CSS is Fun.
